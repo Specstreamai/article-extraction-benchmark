@@ -4,7 +4,8 @@ Article extraction benchmark: open-source libraries and commercial services
 We evaluate the quality of article body
 extraction for commercial services
 `Zyte Automatic Extraction (ours) <https://www.zyte.com/data-types/news-scraping-api/>`_,
-`Diffbot <https://www.diffbot.com/>`_
+`Diffbot <https://www.diffbot.com/>`_,
+`SpecStream Extract API <https://specstream.ai/extract-api>`_
 and open-source libraries
 `newspaper4k <https://github.com/AndyTheFactory/newspaper4k>`_,
 `readability-lxml <https://github.com/buriy/python-readability>`_,
